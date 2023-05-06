@@ -1,1 +1,3 @@
-app/.vscode/settings.json
+*.pyc
+*.zip
+.DS_Store
